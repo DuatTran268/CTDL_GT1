@@ -1,3 +1,3 @@
 # CTDL_GT
- Cau Truc Giu Lieu & Gia Thuat
+Cấu trúc dữ liệu và giải thuật
 
