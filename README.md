@@ -1,2 +1,3 @@
 # CTDL_GT
- Cau truc du lieu va gia thuat
+Cấu trúc dữ liệu và giải thuật
+
