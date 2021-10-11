@@ -206,4 +206,5 @@ int LucLuongTapHop(LIST list)
 		pNode = pNode->pNext;
 	}
 	return result;
+	
 }
